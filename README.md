@@ -25,7 +25,7 @@ Create a .env file in the project root and add your token:
 REACT_APP_MAPBOX_TOKEN=YOUR_MAPBOX_TOKEN
 
 # Install dependencies:
-Bash
+Bash &nbsp
 npm install
 Use code with caution. Learn more
 
