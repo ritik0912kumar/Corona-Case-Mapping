@@ -39,7 +39,7 @@ npm start
 # Additional Information about Dependencies
 ## Fetch API
 
-Purpose: Fetches data from external sources, enabling dynamic updates and interactions within web applications.\
+Purpose: Fetches data from external sources, enabling dynamic updates and interactions within web applications.
 ## Role in Corona Case Mapping
 Retrieves the latest case data from the data.json file every 20 seconds.\
 Ensures the map visualization reflects the most recent information, showcasing real-time trends.
