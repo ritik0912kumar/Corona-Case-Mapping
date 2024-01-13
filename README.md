@@ -10,7 +10,7 @@ Color-coded markers: Visualize case severity with a heatmap-like intensity based
 Customizable filters: Focus on specific regions and time periods to uncover trends and patterns.\
 User-friendly interface: Easy to navigate and explore.
 
-## Built with:
+## Built with
 
 HTML\
 CSS\
@@ -20,14 +20,14 @@ Mapbox GL JS
 # Getting Started
 
 ## Clone or download this repository
-Obtain a Mapbox access token:
+Obtain a Mapbox access token
 https://docs.mapbox.com/help/getting-started/access-tokens/: https://docs.mapbox.com/help/getting-started/access-tokens/
 
-Create a .env file in the project root and add your token:\
+Create a .env file in the project root and add your token\
 REACT_APP_MAPBOX_TOKEN=YOUR_MAPBOX_TOKEN
 
 ## Install dependencies
-Bash &nbsp\
+Bash\
 npm install
 
 
