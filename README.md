@@ -13,10 +13,11 @@ User-friendly interface: Easy to navigate and explore.
 # Built with:
 
 HTML\
-CSS
-JavaScript
-Mapbox GL JS
-Getting Started:
+CSS\
+JavaScript\
+Mapbox GL JS\
+
+## Getting Started:
 
 # Clone or download this repository.
 Obtain a Mapbox access token: https://docs.mapbox.com/help/getting-started/access-tokens/: https://docs.mapbox.com/help/getting-started/access-tokens/
