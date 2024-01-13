@@ -1,27 +1,26 @@
-# Corona Case Mapping
+# Corona Case Map
 
-Explore the global impact of COVID-19 with an interactive globe visualization.
+Visualize the spread of COVID-19 cases in real-time with this interactive global map.
 
-## Features
+Features:
 
-Interactive 3D globe powered by Mapbox GL JS, allowing you to zoom, rotate, and pan to explore global case data.
-Real-time data updates ensure you're always viewing the latest information.
-Customizable filters let you drill down by:
-Country
-Date range
-Case type (confirmed, recovered, deaths)
-Visualize trends and patterns to uncover insights into the pandemic's spread and impact.
-Built with open-source technologies: HTML, CSS, JavaScript, and Mapbox GL JS.
-## Getting Started
+Real-time data updates: Stay informed with the latest case numbers.
+Interactive Mapbox globe: Explore the world with smooth zooming, rotating, and panning.
+Color-coded markers: Visualize case severity with a heatmap-like intensity based on infection count.
+Customizable filters: Focus on specific regions and time periods to uncover trends and patterns.
+User-friendly interface: Easy to navigate and explore.
+Built with:
+
+HTML
+CSS
+JavaScript
+Mapbox GL JS
+Getting Started:
 
 Clone or download this repository.
-
-Obtain a Mapbox access token (https://account.mapbox.com/access-tokens/).
-
-Create a .env file in the project root and add your Mapbox token:
-
+Obtain a Mapbox access token: https://docs.mapbox.com/help/getting-started/access-tokens/: https://docs.mapbox.com/help/getting-started/access-tokens/
+Create a .env file in the project root and add your token:
 REACT_APP_MAPBOX_TOKEN=YOUR_MAPBOX_TOKEN
-
 Install dependencies:
 Bash
 npm install
@@ -30,4 +29,6 @@ Start the development server:
 Bash
 npm start
 Use code with caution. Learn more
-Explore, understand, and share the story of the pandemic. Your insights matter.
+Contribute:
+
+We welcome contributions! Please see the CONTRIBUTING.md file for guidelines.
