@@ -21,3 +21,13 @@ Obtain a Mapbox access token (https://account.mapbox.com/access-tokens/).
 Create a .env file in the project root and add your Mapbox token:
 
 REACT_APP_MAPBOX_TOKEN=YOUR_MAPBOX_TOKEN
+
+Install dependencies:
+Bash
+npm install
+Use code with caution. Learn more
+Start the development server:
+Bash
+npm start
+Use code with caution. Learn more
+Explore, understand, and share the story of the pandemic. Your insights matter.
