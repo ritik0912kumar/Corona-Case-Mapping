@@ -12,7 +12,7 @@ User-friendly interface: Easy to navigate and explore.
 
 # Built with:
 
-HTML
+HTML\
 CSS
 JavaScript
 Mapbox GL JS
