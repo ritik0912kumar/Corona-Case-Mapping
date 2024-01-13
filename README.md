@@ -1,42 +1,23 @@
-Corona Case Mapping
-Corona Case Mapping is an interactive globe that allows you to zoom in, filter, and visualize real-time COVID-19 data. This tool helps you see trends, compare regions, and understand the global impact of the pandemic. Real-time updates ensure that you have the latest information, while customizable filters enable you to drill down by country, date, and case type to unveil hidden trends and patterns.
+# Corona Case Mapping
 
-Features
-Interactive Globe: Explore the world using an interactive globe interface.
-Zoom and Pan: Zoom in and pan to get a closer look at specific regions.
-Real-time Updates: Stay informed with the latest COVID-19 data as it happens.
-Customizable Filters: Drill down by country, date, and case type to discover hidden trends.
-MapBox Integration: Powered by MapBox for a seamless and visually appealing mapping experience.
-Technologies Used
-HTML
-CSS
-JavaScript
-MapBox
-Getting Started
-To use the Corona Case Mapping tool, follow these steps:
+Explore the global impact of COVID-19 with an interactive globe visualization.
 
-Clone the repository to your local machine.
+## Features
 
-bash
-Copy code
-git clone https://github.com/your-username/corona-case-mapping.git
-Open the index.html file in your web browser.
+Interactive 3D globe powered by Mapbox GL JS, allowing you to zoom, rotate, and pan to explore global case data.
+Real-time data updates ensure you're always viewing the latest information.
+Customizable filters let you drill down by:
+Country
+Date range
+Case type (confirmed, recovered, deaths)
+Visualize trends and patterns to uncover insights into the pandemic's spread and impact.
+Built with open-source technologies: HTML, CSS, JavaScript, and Mapbox GL JS.
+## Getting Started
 
-Explore the interactive globe, zoom in, filter data, and visualize real-time COVID-19 information.
+Clone or download this repository.
 
-Usage
-Use the mouse to interact with the globe (zoom in, pan).
-Use the customizable filters to refine data by country, date, and case type.
-Contributing
-If you'd like to contribute to this project, please follow these steps:
+Obtain a Mapbox access token (https://account.mapbox.com/access-tokens/).
 
-Fork the repository.
-Create a new branch for your feature or bug fix.
-Make your changes and submit a pull request.
-License
-This project is licensed under the MIT License - see the LICENSE file for details.
+Create a .env file in the project root and add your Mapbox token:
 
-Acknowledgments
-Data sourced from reputable COVID-19 databases.
-Map data powered by MapBox.
-Feel free to reach out with any questions or feedback. Stay safe!
+REACT_APP_MAPBOX_TOKEN=YOUR_MAPBOX_TOKEN
