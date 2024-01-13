@@ -15,12 +15,12 @@ User-friendly interface: Easy to navigate and explore.
 HTML\
 CSS\
 JavaScript\
-Mapbox GL JS\
+Mapbox GL JS
 
 # Getting Started
 
 ## Clone or download this repository
-Obtain a Mapbox access token:\ 
+Obtain a Mapbox access token:
 https://docs.mapbox.com/help/getting-started/access-tokens/: https://docs.mapbox.com/help/getting-started/access-tokens/
 
 Create a .env file in the project root and add your token:\
@@ -28,12 +28,12 @@ REACT_APP_MAPBOX_TOKEN=YOUR_MAPBOX_TOKEN
 
 ## Install dependencies
 Bash &nbsp\
-npm install\
+npm install
 
 
 ## Start the development server
 Bash\
-npm start\
+npm start
 
 ## Contribute
 
